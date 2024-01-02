@@ -1,2 +1,2 @@
 # Used-Car-Price-Prediction
-AutoPricePredict is an innovative machine learning project designed to predict used car prices based on various features and attributes. Leveraging advanced regression techniques, the project aims to assist users, buyers, and sellers in making informed decisions about the fair market value of pre-owned vehicles.
+AutoPowerPredict is a sophisticated machine learning project focused on predicting the maximum power (max_power) output of used cars. By employing a diverse set of regression models, including Linear Regression, Random Forest, Gradient Boosting, XGBoost, and Decision Tree, the project aims to provide accurate estimations of a car's power based on various features
